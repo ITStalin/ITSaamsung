@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">SamsungHomeWork</string>
+    <string name="app_name">Logcat.2.3.1</string>
+    <string name="action_settings">Settings</string>
 </resources>
